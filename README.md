@@ -6,7 +6,8 @@ NOTES:
 
 Must Read:
   1. Gradient Descent: https://iamtrask.github.io/2015/07/27/python-network-part2/
-  2. 
+  2. Visualization of Convolutional Neural Network: http://www.scs.ryerson.ca/~aharley/vis/conv/flat.html
+  3. SuperDataScience Deep Learning page: https://www.superdatascience.com/pages/deep-learning
   
   
   
