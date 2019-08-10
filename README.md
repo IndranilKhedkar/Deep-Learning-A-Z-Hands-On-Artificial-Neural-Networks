@@ -13,5 +13,8 @@ CNN:
   1. https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
   2. Introduction to CNN with mathematical aspects of convolution https://pdfs.semanticscholar.org/450c/a19932fcef1ca6d0442cbf52fec38fb9d1e5.pdf
 
+SOM:
+  1. https://annalyzin.wordpress.com/2017/11/02/self-organizing-map/
+
 Good Reads:
   1. Neural Networks and Deep Learning - Michael Nielsen
